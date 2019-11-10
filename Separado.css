@@ -1,0 +1,16 @@
+h1 {color: #277A8F;
+text-shadow: #277A8F 0 -1px 4px, #ff0 0 -2px 10px, #277A8F 0 -10px 20px, red 0 -18px 40px;
+}
+#primero {font-style: oblique;
+  font-size: 80%;
+  font-weight: bolder;
+}
+#imagen {border-radius: 70%;
+  box-shadow: 2px 2px 7px 1px #277A8F;
+}
+#segundo {color: red;
+  font-stretch: expanded;
+font-size: 150%}
+table {border-style: solid;
+  border-color: blue;
+}
